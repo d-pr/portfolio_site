@@ -6,6 +6,9 @@ description: 'Action-platforming game built in C# and Unity'
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
 
+[![Link to our trailer](https://img.youtube.com/vi/2-k-1tsc0lM/0.jpg)](https://www.youtube.com/watch?v=2-k-1tsc0lM)
+
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
 
 ![Mountain](./mountain.jpg)
