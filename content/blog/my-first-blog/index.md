@@ -7,6 +7,7 @@ description: 'Action-platforming game built in C# and Unity'
 ## Action-platformer built in Unity and C#
 
 [Download on Itch.io](https://stanfordstudentgames.itch.io/dodgeball-2020)
+
 [Github Repo](https://github.com/nefrob/cs146-final-project)
 
 This was the capstone project for CS 146: Intro to Game Design. Working in a team of four, we finished the game over the course of a month. It was built in C# with Unity. Each week a different industry professional came and gave a talk on each piece of the process: the design documents, iterative prototyping, design, and polish.
