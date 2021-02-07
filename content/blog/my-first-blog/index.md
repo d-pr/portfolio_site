@@ -4,6 +4,8 @@ date: '2017-09-20T12:00:00.00Z'
 description: 'Action-platforming game built in C# and Unity'
 ---
 
+![Logo](./dodgeball_title.jpg)
+
 ## Action-platformer built in Unity and C#
 
 [Download on Itch.io](https://stanfordstudentgames.itch.io/dodgeball-2020)
@@ -17,5 +19,3 @@ At the end of the quarter, it was shown at the inaguaral Stanford Game Design Sh
 If you want a preview first, you can view our trailer by clicking below (as you can see, no one on the team was an artist, but we did our best!):
 
 [![Link to our trailer](https://img.youtube.com/vi/2-k-1tsc0lM/0.jpg)](https://www.youtube.com/watch?v=2-k-1tsc0lM)
-
-![Logo](./dodgeball_title.jpg)
