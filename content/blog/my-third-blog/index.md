@@ -4,7 +4,7 @@ date: '2020-10-10T12:00:00.00Z'
 description: 'Android app to make and play adventure games, built in Android Studio with Java and Kotlin'
 ---
 
-![Title](./title.png)
+![Title](./title.PNG)
 
 Built an Android app for making small, graphical adventure games and playing them with a team of four. Although the demo game we created for the application wasn't the prettiest, it has all the tools for people to make lovelier alternatives!
 
