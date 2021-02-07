@@ -1,60 +1,15 @@
 ---
 title: Predicting Mobility Changes due to COVID-19
 date: '2020-10-02T12:00:00.00Z'
-description: 'Data analysis project with Python, SQL, and BigQuery'
+description: 'Data analysis project with SQL, Python, and BigQuery'
 ---
 
-## Lorem ipsum dolor sit amet consectetur adipisicing elit
+## Examining Changes in Mobility Due To COVID-19 in SQL, BigQuery and Python
 
 View the full Google Colaboratory [here](https://colab.research.google.com/drive/1rkUdkOyj0Up0-yVqdX-snS3yobNxy7jl?usp=sharing)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+This was the final project for CS 145: Database Management and Systems. The project began as an open-ended exploration of how COVID-19 changed people's mobility worldwide. Ultimately, I built a logistic regression model to try and predict, based on factors like government restrictions, precipitation, and ICU capacities, whether or not people's mobility would decline.
 
-![Mountain](./mountain.jpg)
+One of the requirements for this project was to use BigQuery and SQL for as much of the process as possible - exploratory data analysis, creating constructed features, and making and testing the model - on at least fairly big data (the largest table I used had ~6 million rows). I used matplotlib for visualization throughout, as well as pandas in Python and data.table in R to clean and process the data before uploading it to BigQuery.
 
-Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
-
-## Asperiores culpa delectus hic qui saepe
-
-### Facere labore velit ad autem
-
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
-
-### Porro veritatis placeat nemo impedit
-
-Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
-
-> Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.
-
-Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus **repellendus quas minus consequuntur** possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.
-
-## Voluptatibus accusamus repellendus quas minus
-
-Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.
-
-- Numquam fugiat quibusdam aut ut
-- Soluta necessitatibus deserunt nobis
-- Illum esse recusandae facere ipsam
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.
-
-1. Numquam fugiat quibusdam aut ut
-2. Soluta necessitatibus deserunt nobis
-3. Illum esse recusandae facere ipsam
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
-
-## Suscipit soluta necessitatibus deserunt nobi
-
-Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
-
-```js
-const helloWorld = (name = 'World') => {
-  return `Hello ${name}!`;
-};
-
-helloWorld();
-helloWorld('John Doe');
-```
-
-Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!
+I learned how to write much more efficient SQL queries - writing them out with relational algebra to maximize efficiency, choosing joins that optimize for IO costs, and so on - as well as how to create a data analysis workflow almost entirely in BigQuery. I also learned which portions of my data analysis workflow are best conducted outside of BigQuery - in particular, setting up data splits, and training/evaluating models in BigQuery is substantially more finicky than just using Keras, or any other Python/R ML package of one's choice. However, setting these constraints still proved valuable, and an excellent lesson in the value of using the right tool for the job.
