@@ -18,4 +18,4 @@ If you want a preview first, you can view our trailer by clicking below (as you 
 
 [![Link to our trailer](https://img.youtube.com/vi/2-k-1tsc0lM/0.jpg)](https://www.youtube.com/watch?v=2-k-1tsc0lM)
 
-![Mountain](./dodgeball_title.jpg
+![Logo](./dodgeball_title.jpg)
