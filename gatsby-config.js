@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'David Ryan',
     // Main Site Title
-    title: `David Ryan | Computer Science`,
+    title: `David Ryan | CS & Data Science`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Student, SWE/Data Scientist in-progress.`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Hi! I'm studying Computer Science and Feminist, Gender and Sexuality Studies at Stanford. `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
