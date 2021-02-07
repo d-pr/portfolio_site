@@ -1,7 +1,7 @@
 ---
-title: My Second Blog Post
+title: Predicting Mobility Changes due to COVID-19
 date: '2020-10-02T12:00:00.00Z'
-description: 'Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat'
+description: 'Data analysis project with Python, SQL, and BigQuery'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
