@@ -1,11 +1,12 @@
 ---
-title: Bunny World Game Editor & Player
+title: Android Game Editor & Player
 date: '2020-10-10T12:00:00.00Z'
 description: 'Android app to make and play adventure games, built in Android Studio with Java and Kotlin'
 ---
 
-## Lorem ipsum dolor sit amet consectetur adipisicing elit
+## 
 
+Final project for Object-oriented Programming course. As part of a team of four, 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
 
 ![Mountain](./mountain.jpg)
