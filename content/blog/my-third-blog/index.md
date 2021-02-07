@@ -4,9 +4,7 @@ date: '2020-10-10T12:00:00.00Z'
 description: 'Android app to make and play adventure games, built in Android Studio with Java and Kotlin'
 ---
 
-## 
-
-Final project for Object-oriented Programming course. As part of a team of four, 
+As part of a team of four, built an Android app for making small, graphical adventure games and playing them. Coordinated work on the 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
 
 ![Mountain](./mountain.jpg)
