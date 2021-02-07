@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `festive-ardinghelli-a30987.netlify.app`,
+    siteUrl: `https://david-p-ryan.com/`,
     // Your Name
     name: 'David Ryan',
     // Main Site Title
