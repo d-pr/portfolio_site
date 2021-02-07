@@ -1,7 +1,7 @@
 ---
-title: My Third Blog Post
+title: Bunny World Game Editor & Player
 date: '2020-10-10T12:00:00.00Z'
-description: 'Dolor inventore quasi necessitatibus odio eaque doloribus'
+description: 'Android app to make and play adventure games, built in Android Studio with Java and Kotlin'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
