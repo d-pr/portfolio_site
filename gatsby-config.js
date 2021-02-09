@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Hi! I'm studying Computer Science and Feminist, Gender and Sexuality Studies at Stanford. `,
+    about: `Hi! I'm studying Computer Science and Feminist, Gender and Sexuality Studies at Stanford University. In the past I've researched right-wing social movements, `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
 //     projects: [
 //       {
@@ -74,7 +74,7 @@ module.exports = {
       {
         name: 'Data Science',
         description:
-          'Natural Language Processing, Deep learning (PyTorch), Machine learning, data visualization (matplotlib, seaborn, ggplot), sentiment analysis',
+          'Natural Language Processing, Deep learning (PyTorch), Machine learning, data visualization (matplotlib, seaborn, ggplot), Sentiment analysis',
       },
       {
         name: 'Other',
