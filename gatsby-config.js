@@ -74,12 +74,12 @@ module.exports = {
       {
         name: 'Data Science',
         description:
-          'Natural Language Processing, Deep learning (PyTorch), Machine learning, data visualization (matplotlib, seaborn, ggplot)',
+          'Natural Language Processing, Deep learning (PyTorch), Machine learning, data visualization (matplotlib, seaborn, ggplot), sentiment analysis',
       },
       {
         name: 'Other',
         description:
-          'Android Studio, Azure, Github & Gitlab, Object-oriented design',
+          'Android Studio, Azure, Github & Gitlab, Object-oriented design, One-time collegiate Hearthstone quarterfinalist', 
       },
     ],
   },
