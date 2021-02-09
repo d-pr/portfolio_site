@@ -41,7 +41,7 @@ module.exports = {
     experience: [
       {
         name: 'National Consortium for the Study of Terrorism and Responses to Terrorism',
-        description: 'Intern, June 2018 - September 2019',
+        description: 'Center for the Advanced Study of Language Intern, June 2018 - September 2019',
         link: '',
       },
       {
@@ -63,7 +63,7 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Languages',
         description:
           'Python, Java, C++, SQL, R, Javascript, C',
       },
@@ -72,9 +72,14 @@ module.exports = {
         description: 'BigQuery, MySQL',
       },
       {
+        name: 'Data Science',
+        description:
+          'Natural Language Processing, Deep learning (PyTorch), Machine learning, data visualization (matplotlib, seaborn, ggplot)',
+      },
+      {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Android Studio, Azure, Github & Gitlab, Object-oriented design',
       },
     ],
   },
