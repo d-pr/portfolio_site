@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Hi! I'm studying Computer Science and Feminist, Gender and Sexuality Studies at Stanford University. In the past I've researched right-wing social movements, `,
+    about: `Hi! I'm studying Computer Science and Feminist, Gender and Sexuality Studies at Stanford University. In school, my focus has been on Natural Language Processing, Machine Learning, and the big data infrastructure and techniques around them. In the past I've researched right-wing social movements, had mixed success in Collegiate eSports, and gone on some lovely hikes.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
 //     projects: [
 //       {
@@ -39,6 +39,16 @@ module.exports = {
 //     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
+      {
+        name: 'Universities Space Research Association - NASA Academic Mission Services',
+        description: 'High Performance Computing Intern, September 2021 - Present',
+        link: '',
+      },
+      {
+        name: 'Electronic Arts - Respawn Entertainment',
+        description: 'Game Analytics Intern - Apex Legends, June 2021 - September 2021',
+        link: '',
+      },
       {
         name: 'National Consortium for the Study of Terrorism and Responses to Terrorism',
         description: 'Center for the Advanced Study of Language Intern, June 2018 - September 2019',
@@ -65,21 +75,26 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, Java, C++, SQL, R, Javascript, C',
+          'Python, Java, SQL, Javascript, C++, R, C',
       },
       {
         name: 'Databases',
-        description: 'BigQuery, MySQL',
+        description: 'Snowflake, BigQuery, MySQL, MongoDB',
+      },
+      {
+        name: 'Cloud Computing',
+        description:
+          'Microsoft Azure, Amazon Web Services', 
       },
       {
         name: 'Data Science',
         description:
-          'Natural Language Processing, Deep learning (PyTorch), Machine learning, data visualization (matplotlib, seaborn, ggplot), Sentiment analysis',
+          'Natural Language Processing, Deep learning (PyTorch), Machine learning, analytics dashboarding with Plotly, Dash and React, data visualization (matplotlib, seaborn, ggplot), Sentiment analysis',
       },
       {
         name: 'Other',
         description:
-          'Android Studio, Azure, Github & Gitlab, Object-oriented design, One-time collegiate Hearthstone quarterfinalist', 
+          'Android Studio, Front-end development with React, Github & Gitlab, Object-oriented design, One-time National Collegiate Hearthstone Quarterfinalist', 
       },
     ],
   },
